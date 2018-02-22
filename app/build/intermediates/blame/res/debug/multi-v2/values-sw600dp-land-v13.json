@@ -1,0 +1,34 @@
+{
+    "logs": [
+        {
+            "outputFile": "/home/m/Projekty/NavigationDrawler22_6/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-sw600dp-land-v13/values-sw600dp-land-v13.xml",
+            "map": [
+                {
+                    "source": "/home/m/.gradle/caches/transforms-1/files-1.1/materialdatetimepicker-3.2.0.aar/1d5e4a58bd6b1a63cf4a457cec76e00a/res/values-sw600dp-land-v13/values-sw600dp-land-v13.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,107,161,224,286,347,409,460,511,565,619,680,732",
+                        "endColumns": "51,53,62,61,60,61,50,50,53,53,60,51,61",
+                        "endOffsets": "102,156,219,281,342,404,455,506,560,614,675,727,789"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/home/m/Downloads/NavigationDrawler22_6/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-sw600dp-land-v13/values-sw600dp-land-v13.xml",
+            "map": [
+                {
+                    "source": "/home/m/.gradle/caches/transforms-1/files-1.1/materialdatetimepicker-3.2.0.aar/5c0b804489e743f695236e831b3c35dd/res/values-sw600dp-land-v13/values-sw600dp-land-v13.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,107,161,224,286,347,409,460,511,565,619,680,732",
+                        "endColumns": "51,53,62,61,60,61,50,50,53,53,60,51,61",
+                        "endOffsets": "102,156,219,281,342,404,455,506,560,614,675,727,789"
+                    }
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,34 @@
+{
+    "logs": [
+        {
+            "outputFile": "/home/m/Projekty/NavigationDrawler22_6/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-h330dp-v13/values-h330dp-v13.xml",
+            "map": [
+                {
+                    "source": "/home/m/.gradle/caches/transforms-1/files-1.1/materialdatetimepicker-3.2.0.aar/1d5e4a58bd6b1a63cf4a457cec76e00a/res/values-h330dp-v13/values-h330dp-v13.xml",
+                    "from": {
+                        "startLines": "2,3",
+                        "startColumns": "4,4",
+                        "startOffsets": "55,125",
+                        "endColumns": "69,56",
+                        "endOffsets": "120,177"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/home/m/Downloads/NavigationDrawler22_6/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-h330dp-v13/values-h330dp-v13.xml",
+            "map": [
+                {
+                    "source": "/home/m/.gradle/caches/transforms-1/files-1.1/materialdatetimepicker-3.2.0.aar/5c0b804489e743f695236e831b3c35dd/res/values-h330dp-v13/values-h330dp-v13.xml",
+                    "from": {
+                        "startLines": "2,3",
+                        "startColumns": "4,4",
+                        "startOffsets": "55,125",
+                        "endColumns": "69,56",
+                        "endOffsets": "120,177"
+                    }
+                }
+            ]
+        }
+    ]
+}

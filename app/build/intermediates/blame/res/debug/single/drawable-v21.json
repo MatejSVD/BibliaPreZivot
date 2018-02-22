@@ -1,0 +1,42 @@
+[
+    {
+        "merged": "/home/m/Downloads/NavigationDrawler22_6/app/build/intermediates/res/merged/debug/drawable-v21/notification_action_background.xml",
+        "source": "/home/m/.android/build-cache/8babe9176106741a1202f21a87b052de4ac4f2cf/output/res/drawable-v21/notification_action_background.xml"
+    },
+    {
+        "merged": "/home/m/Downloads/NavigationDrawler22_6/app/build/intermediates/res/merged/debug/drawable-v21/mdtp_material_button_background.xml",
+        "source": "/home/m/.android/build-cache/65518a87e5aa63a43a973df102a2fa1ecfd2d1bc/output/res/drawable-v21/mdtp_material_button_background.xml"
+    },
+    {
+        "merged": "/home/m/Downloads/NavigationDrawler22_6/app/build/intermediates/res/merged/debug/drawable-v21/abc_btn_colored_material.xml",
+        "source": "/home/m/.android/build-cache/8babe9176106741a1202f21a87b052de4ac4f2cf/output/res/drawable-v21/abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "/home/m/Downloads/NavigationDrawler22_6/app/build/intermediates/res/merged/debug/drawable-v21/abc_edit_text_material.xml",
+        "source": "/home/m/.android/build-cache/8babe9176106741a1202f21a87b052de4ac4f2cf/output/res/drawable-v21/abc_edit_text_material.xml"
+    },
+    {
+        "merged": "/home/m/Downloads/NavigationDrawler22_6/app/build/intermediates/res/merged/debug/drawable-v21/design_password_eye.xml",
+        "source": "/home/m/.android/build-cache/2ae63dce005605d49a7569039029f586ee6e51cf/output/res/drawable-v21/design_password_eye.xml"
+    },
+    {
+        "merged": "/home/m/Downloads/NavigationDrawler22_6/app/build/intermediates/res/merged/debug/drawable-v21/mdtp_material_button_selected.xml",
+        "source": "/home/m/.android/build-cache/65518a87e5aa63a43a973df102a2fa1ecfd2d1bc/output/res/drawable-v21/mdtp_material_button_selected.xml"
+    },
+    {
+        "merged": "/home/m/Downloads/NavigationDrawler22_6/app/build/intermediates/res/merged/debug/drawable-v21/abc_action_bar_item_background_material.xml",
+        "source": "/home/m/.android/build-cache/8babe9176106741a1202f21a87b052de4ac4f2cf/output/res/drawable-v21/abc_action_bar_item_background_material.xml"
+    },
+    {
+        "merged": "/home/m/Downloads/NavigationDrawler22_6/app/build/intermediates/res/merged/debug/drawable-v21/design_bottom_navigation_item_background.xml",
+        "source": "/home/m/.android/build-cache/2ae63dce005605d49a7569039029f586ee6e51cf/output/res/drawable-v21/design_bottom_navigation_item_background.xml"
+    },
+    {
+        "merged": "/home/m/Downloads/NavigationDrawler22_6/app/build/intermediates/res/merged/debug/drawable-v21/avd_show_password.xml",
+        "source": "/home/m/.android/build-cache/2ae63dce005605d49a7569039029f586ee6e51cf/output/res/drawable-v21/avd_show_password.xml"
+    },
+    {
+        "merged": "/home/m/Downloads/NavigationDrawler22_6/app/build/intermediates/res/merged/debug/drawable-v21/avd_hide_password.xml",
+        "source": "/home/m/.android/build-cache/2ae63dce005605d49a7569039029f586ee6e51cf/output/res/drawable-v21/avd_hide_password.xml"
+    }
+]

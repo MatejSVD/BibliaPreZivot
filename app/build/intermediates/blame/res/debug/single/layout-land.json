@@ -1,0 +1,30 @@
+[
+    {
+        "merged": "/home/m/Downloads/NavigationDrawler22_6/app/build/intermediates/res/merged/debug/layout-land/mdtp_date_picker_dialog_v2.xml",
+        "source": "/home/m/.android/build-cache/65518a87e5aa63a43a973df102a2fa1ecfd2d1bc/output/res/layout-land/mdtp_date_picker_dialog_v2.xml"
+    },
+    {
+        "merged": "/home/m/Downloads/NavigationDrawler22_6/app/build/intermediates/res/merged/debug/layout-land/mdtp_date_picker_dialog.xml",
+        "source": "/home/m/.android/build-cache/65518a87e5aa63a43a973df102a2fa1ecfd2d1bc/output/res/layout-land/mdtp_date_picker_dialog.xml"
+    },
+    {
+        "merged": "/home/m/Downloads/NavigationDrawler22_6/app/build/intermediates/res/merged/debug/layout-land/mdtp_time_title_view_v2.xml",
+        "source": "/home/m/.android/build-cache/65518a87e5aa63a43a973df102a2fa1ecfd2d1bc/output/res/layout-land/mdtp_time_title_view_v2.xml"
+    },
+    {
+        "merged": "/home/m/Downloads/NavigationDrawler22_6/app/build/intermediates/res/merged/debug/layout-land/mdtp_time_picker_dialog_v2.xml",
+        "source": "/home/m/.android/build-cache/65518a87e5aa63a43a973df102a2fa1ecfd2d1bc/output/res/layout-land/mdtp_time_picker_dialog_v2.xml"
+    },
+    {
+        "merged": "/home/m/Downloads/NavigationDrawler22_6/app/build/intermediates/res/merged/debug/layout-land/mdtp_date_picker_header_view_v2.xml",
+        "source": "/home/m/.android/build-cache/65518a87e5aa63a43a973df102a2fa1ecfd2d1bc/output/res/layout-land/mdtp_date_picker_header_view_v2.xml"
+    },
+    {
+        "merged": "/home/m/Downloads/NavigationDrawler22_6/app/build/intermediates/res/merged/debug/layout-land/mdtp_time_header_label.xml",
+        "source": "/home/m/.android/build-cache/65518a87e5aa63a43a973df102a2fa1ecfd2d1bc/output/res/layout-land/mdtp_time_header_label.xml"
+    },
+    {
+        "merged": "/home/m/Downloads/NavigationDrawler22_6/app/build/intermediates/res/merged/debug/layout-land/mdtp_time_picker_dialog.xml",
+        "source": "/home/m/.android/build-cache/65518a87e5aa63a43a973df102a2fa1ecfd2d1bc/output/res/layout-land/mdtp_time_picker_dialog.xml"
+    }
+]

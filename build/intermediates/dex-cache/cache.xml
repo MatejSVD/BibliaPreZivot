@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/home/m/.android/build-cache/72932a4f33712f0da83b109384c07fadf2cc9dc8/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
+        <dex dex="/home/m/Downloads/NavigationDrawler22_6/app/build/intermediates/pre-dexed/debug/classes_f20bc78aa9573d95627542b2d63f5c533d1e9974.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/m/.android/build-cache/e22575bd8630e8309b9427008cf0aab13593f007/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
+        <dex dex="/home/m/Downloads/NavigationDrawler22_6/app/build/intermediates/pre-dexed/debug/classes_3afd1bb8774a9faeb79cbc675f0ecb9a762cd6ee.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/m/.android/build-cache/a00b79027c00ebfcf73b9960e9339e937a19aa06/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="7521486d9bfd2cd9e756e0cf75ed7d97f2ce2d3b">
+        <dex dex="/home/m/Downloads/NavigationDrawler22_6/app/build/intermediates/pre-dexed/debug/classes_5e8b37d4cc318fa844dcf6c9d5119348ecdb3123.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/m/.android/build-cache/a1b830b3277ce0b70e889a10bcef188a8e77f1cd/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
+        <dex dex="/home/m/Downloads/NavigationDrawler22_6/app/build/intermediates/pre-dexed/debug/classes_2991c1e7526ebc2bf6ad9cbf4536b6c9cb291372.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/m/.android/build-cache/ef7ac3fd994f8ffb3f85166e3045cb4943c9b13d/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e03f47f3d1017a093bb3239d4ec47c3447f40744">
+        <dex dex="/home/m/Downloads/NavigationDrawler22_6/app/build/intermediates/pre-dexed/debug/classes_fb2a7298503561a7f56674985256a32656dffc58.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/m/.android/build-cache/227f2ea3f95becb10484649dea30cc58206f6108/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d5c731fc64c03dfe04d51134955b483551c35849">
+        <dex dex="/home/m/Downloads/NavigationDrawler22_6/app/build/intermediates/pre-dexed/debug/classes_edbd1164db25973f85a56b51855c1a101e5a5547.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/m/.android/build-cache/e22575bd8630e8309b9427008cf0aab13593f007/output/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
+        <dex dex="/home/m/Downloads/NavigationDrawler22_6/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_30c220cc17a46fec630b2cf92d80c3f3d3ae4507.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/m/.android/build-cache/a1b830b3277ce0b70e889a10bcef188a8e77f1cd/output/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
+        <dex dex="/home/m/Downloads/NavigationDrawler22_6/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_72b72f98eae8375e880d2cb491297818ecb78881.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/m/.android/build-cache/85409c053e4cd16c1b2d1f94c71a30846298357e/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="12e67307b10da7aad1bd09af41f281a2fed08d96">
+        <dex dex="/home/m/Downloads/NavigationDrawler22_6/app/build/intermediates/pre-dexed/debug/classes_85f1a60467d169856f691464d0c8d0a33bf74c14.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/m/.android/build-cache/b4e08f63621e5413e3d493d2a50d35a4d80d02c9/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/home/m/Downloads/NavigationDrawler22_6/app/build/intermediates/pre-dexed/debug/classes_7b6aa0899c5fe59160525d01be52fb8f0471f2a2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/m/.android/build-cache/c59ac7d8d07203c86e83265525e372345d5eb331/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
+        <dex dex="/home/m/Downloads/NavigationDrawler22_6/app/build/intermediates/pre-dexed/debug/classes_9b34d378abad81068acb901006f53b09b444afb8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/m/.android/build-cache/8aab577720b588ac8e3bbcbce0cca71a6e55132d/output/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="867dad63c33388ff8c7644b236579355036d075f">
+        <dex dex="/home/m/Downloads/NavigationDrawler22_6/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_96dcb50b4f08849e581e41699942b28a4acfbbe8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/m/.android/build-cache/72932a4f33712f0da83b109384c07fadf2cc9dc8/output/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
+        <dex dex="/home/m/Downloads/NavigationDrawler22_6/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_16420984da179cbffb9e653a1c49122161466767.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/m/.android/build-cache/a4bf060acb747eca20c567d18aef5222a8ded2c9/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
+        <dex dex="/home/m/Downloads/NavigationDrawler22_6/app/build/intermediates/pre-dexed/debug/classes_694e1a2674a9ead4a363fbd356eb754e332bdd1d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/m/.android/build-cache/11877b35c7f577bf1296b1b6988fa2ef4a1b3db4/output/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
+        <dex dex="/home/m/Downloads/NavigationDrawler22_6/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_e605bae84e501b5fd0986a7d5eff490096ac786b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/m/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/24.2.1/support-annotations-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="8de3aafecbdf98a61db6427f008f2d515bcd2544">
+        <dex dex="/home/m/Downloads/NavigationDrawler22_6/app/build/intermediates/pre-dexed/debug/support-annotations-24.2.1_fb9b0bc09879efc115a8ac954a635a22e7db0310.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/m/.android/build-cache/11877b35c7f577bf1296b1b6988fa2ef4a1b3db4/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
+        <dex dex="/home/m/Downloads/NavigationDrawler22_6/app/build/intermediates/pre-dexed/debug/classes_50475e199b45c942b838955c310d73302f2015d3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/m/.android/build-cache/8aab577720b588ac8e3bbcbce0cca71a6e55132d/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
+        <dex dex="/home/m/Downloads/NavigationDrawler22_6/app/build/intermediates/pre-dexed/debug/classes_85bf25fb16ec305db8c807292ba9223aaa1be478.jar" />
+    </item>
+
+</items>

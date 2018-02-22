@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/home/m/Downloads/NavigationDrawler22_6/app/build/intermediates/res/merged/debug/layout-v21/notification_action.xml",
+        "source": "/home/m/.android/build-cache/8babe9176106741a1202f21a87b052de4ac4f2cf/output/res/layout-v21/notification_action.xml"
+    },
+    {
+        "merged": "/home/m/Downloads/NavigationDrawler22_6/app/build/intermediates/res/merged/debug/layout-v21/notification_template_custom_big.xml",
+        "source": "/home/m/.android/build-cache/8babe9176106741a1202f21a87b052de4ac4f2cf/output/res/layout-v21/notification_template_custom_big.xml"
+    },
+    {
+        "merged": "/home/m/Downloads/NavigationDrawler22_6/app/build/intermediates/res/merged/debug/layout-v21/notification_action_tombstone.xml",
+        "source": "/home/m/.android/build-cache/8babe9176106741a1202f21a87b052de4ac4f2cf/output/res/layout-v21/notification_action_tombstone.xml"
+    },
+    {
+        "merged": "/home/m/Downloads/NavigationDrawler22_6/app/build/intermediates/res/merged/debug/layout-v21/notification_template_icon_group.xml",
+        "source": "/home/m/.android/build-cache/8babe9176106741a1202f21a87b052de4ac4f2cf/output/res/layout-v21/notification_template_icon_group.xml"
+    }
+]

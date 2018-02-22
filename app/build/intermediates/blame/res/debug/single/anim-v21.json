@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/home/m/Downloads/NavigationDrawler22_6/app/build/intermediates/res/merged/debug/anim-v21/design_bottom_sheet_slide_out.xml",
+        "source": "/home/m/.android/build-cache/2ae63dce005605d49a7569039029f586ee6e51cf/output/res/anim-v21/design_bottom_sheet_slide_out.xml"
+    },
+    {
+        "merged": "/home/m/Downloads/NavigationDrawler22_6/app/build/intermediates/res/merged/debug/anim-v21/design_appbar_state_list_animator.xml",
+        "source": "/home/m/.android/build-cache/ef7ac3fd994f8ffb3f85166e3045cb4943c9b13d/output/res/anim-v21/design_appbar_state_list_animator.xml"
+    },
+    {
+        "merged": "/home/m/Downloads/NavigationDrawler22_6/app/build/intermediates/res/merged/debug/anim-v21/design_bottom_sheet_slide_in.xml",
+        "source": "/home/m/.android/build-cache/2ae63dce005605d49a7569039029f586ee6e51cf/output/res/anim-v21/design_bottom_sheet_slide_in.xml"
+    }
+]

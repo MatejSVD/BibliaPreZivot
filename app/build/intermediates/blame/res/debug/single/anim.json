@@ -1,0 +1,66 @@
+[
+    {
+        "merged": "/home/m/Downloads/NavigationDrawler22_6/app/build/intermediates/res/merged/debug/anim/abc_slide_in_top.xml",
+        "source": "/home/m/.android/build-cache/8babe9176106741a1202f21a87b052de4ac4f2cf/output/res/anim/abc_slide_in_top.xml"
+    },
+    {
+        "merged": "/home/m/Downloads/NavigationDrawler22_6/app/build/intermediates/res/merged/debug/anim/design_bottom_sheet_slide_in.xml",
+        "source": "/home/m/.android/build-cache/2ae63dce005605d49a7569039029f586ee6e51cf/output/res/anim/design_bottom_sheet_slide_in.xml"
+    },
+    {
+        "merged": "/home/m/Downloads/NavigationDrawler22_6/app/build/intermediates/res/merged/debug/anim/abc_popup_exit.xml",
+        "source": "/home/m/.android/build-cache/8babe9176106741a1202f21a87b052de4ac4f2cf/output/res/anim/abc_popup_exit.xml"
+    },
+    {
+        "merged": "/home/m/Downloads/NavigationDrawler22_6/app/build/intermediates/res/merged/debug/anim/abc_fade_out.xml",
+        "source": "/home/m/.android/build-cache/8babe9176106741a1202f21a87b052de4ac4f2cf/output/res/anim/abc_fade_out.xml"
+    },
+    {
+        "merged": "/home/m/Downloads/NavigationDrawler22_6/app/build/intermediates/res/merged/debug/anim/abc_fade_in.xml",
+        "source": "/home/m/.android/build-cache/8babe9176106741a1202f21a87b052de4ac4f2cf/output/res/anim/abc_fade_in.xml"
+    },
+    {
+        "merged": "/home/m/Downloads/NavigationDrawler22_6/app/build/intermediates/res/merged/debug/anim/design_snackbar_out.xml",
+        "source": "/home/m/.android/build-cache/2ae63dce005605d49a7569039029f586ee6e51cf/output/res/anim/design_snackbar_out.xml"
+    },
+    {
+        "merged": "/home/m/Downloads/NavigationDrawler22_6/app/build/intermediates/res/merged/debug/anim/design_fab_in.xml",
+        "source": "/home/m/.android/build-cache/2ae63dce005605d49a7569039029f586ee6e51cf/output/res/anim/design_fab_in.xml"
+    },
+    {
+        "merged": "/home/m/Downloads/NavigationDrawler22_6/app/build/intermediates/res/merged/debug/anim/design_bottom_sheet_slide_out.xml",
+        "source": "/home/m/.android/build-cache/2ae63dce005605d49a7569039029f586ee6e51cf/output/res/anim/design_bottom_sheet_slide_out.xml"
+    },
+    {
+        "merged": "/home/m/Downloads/NavigationDrawler22_6/app/build/intermediates/res/merged/debug/anim/abc_slide_out_top.xml",
+        "source": "/home/m/.android/build-cache/8babe9176106741a1202f21a87b052de4ac4f2cf/output/res/anim/abc_slide_out_top.xml"
+    },
+    {
+        "merged": "/home/m/Downloads/NavigationDrawler22_6/app/build/intermediates/res/merged/debug/anim/abc_grow_fade_in_from_bottom.xml",
+        "source": "/home/m/.android/build-cache/8babe9176106741a1202f21a87b052de4ac4f2cf/output/res/anim/abc_grow_fade_in_from_bottom.xml"
+    },
+    {
+        "merged": "/home/m/Downloads/NavigationDrawler22_6/app/build/intermediates/res/merged/debug/anim/design_snackbar_in.xml",
+        "source": "/home/m/.android/build-cache/2ae63dce005605d49a7569039029f586ee6e51cf/output/res/anim/design_snackbar_in.xml"
+    },
+    {
+        "merged": "/home/m/Downloads/NavigationDrawler22_6/app/build/intermediates/res/merged/debug/anim/abc_shrink_fade_out_from_bottom.xml",
+        "source": "/home/m/.android/build-cache/8babe9176106741a1202f21a87b052de4ac4f2cf/output/res/anim/abc_shrink_fade_out_from_bottom.xml"
+    },
+    {
+        "merged": "/home/m/Downloads/NavigationDrawler22_6/app/build/intermediates/res/merged/debug/anim/abc_popup_enter.xml",
+        "source": "/home/m/.android/build-cache/8babe9176106741a1202f21a87b052de4ac4f2cf/output/res/anim/abc_popup_enter.xml"
+    },
+    {
+        "merged": "/home/m/Downloads/NavigationDrawler22_6/app/build/intermediates/res/merged/debug/anim/abc_slide_out_bottom.xml",
+        "source": "/home/m/.android/build-cache/8babe9176106741a1202f21a87b052de4ac4f2cf/output/res/anim/abc_slide_out_bottom.xml"
+    },
+    {
+        "merged": "/home/m/Downloads/NavigationDrawler22_6/app/build/intermediates/res/merged/debug/anim/abc_slide_in_bottom.xml",
+        "source": "/home/m/.android/build-cache/8babe9176106741a1202f21a87b052de4ac4f2cf/output/res/anim/abc_slide_in_bottom.xml"
+    },
+    {
+        "merged": "/home/m/Downloads/NavigationDrawler22_6/app/build/intermediates/res/merged/debug/anim/design_fab_out.xml",
+        "source": "/home/m/.android/build-cache/2ae63dce005605d49a7569039029f586ee6e51cf/output/res/anim/design_fab_out.xml"
+    }
+]
