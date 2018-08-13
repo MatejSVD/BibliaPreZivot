@@ -5,7 +5,8 @@
     android:layout_height="match_parent"
     android:background="@drawable/mountain1"
     android:fitsSystemWindows="true"
-    android:orientation="vertical">
+    android:orientation="vertical"
+    android:id="@+id/main">
 
 
 

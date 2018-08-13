@@ -2,11 +2,13 @@ package com.example.m.navigationdrawler22_6;
 
 import android.app.ListActivity;
 import android.content.Context;
+import android.content.SharedPreferences;
 import android.content.res.Configuration;
 import android.support.annotation.NonNull;
 import android.support.design.widget.FloatingActionButton;
 import android.support.design.widget.NavigationView;
 import android.support.design.widget.Snackbar;
+import android.support.design.widget.TabLayout;
 import android.support.v4.app.FragmentTransaction;
 import android.support.v4.widget.DrawerLayout;
 import android.support.v7.app.ActionBarDrawerToggle;
@@ -35,6 +37,7 @@ import android.view.Menu;
 import android.view.MenuItem;
 
 import android.view.View;
+import android.view.ViewGroup;
 import android.widget.EditText;
 import android.widget.SeekBar;
 import android.widget.TextView;
@@ -43,7 +46,7 @@ import org.w3c.dom.Text;
 
 // kostru som prebral z: https://www.youtube.com/watch?v=nwRxjJefcaI
 
-public class MainActivity extends AppCompatActivity{
+public class MainActivity extends BaseActivity {
 
 
     DrawerLayout drawerLayout;
@@ -147,7 +150,6 @@ public class MainActivity extends AppCompatActivity{
 
         //
 
-
         navigationView.setNavigationItemSelectedListener(new NavigationView.OnNavigationItemSelectedListener() {
             @Override
             public boolean onNavigationItemSelected(@NonNull MenuItem item) {
@@ -189,15 +191,12 @@ public class MainActivity extends AppCompatActivity{
         Toolbar mToolbar = (Toolbar) findViewById(R.id.toolbar);
         setSupportActionBar(mToolbar);
 
-
         android.support.v7.widget.Toolbar toolbar = (Toolbar) findViewById(R.id.toolbar);
         ActionBarDrawerToggle toggle = new ActionBarDrawerToggle(this, drawerLayout, toolbar,
          R.string.app_name, R.string.app_name);
         drawerLayout.addDrawerListener(toggle);
 
       toggle.syncState();
-
-
 
     }
 
@@ -239,29 +238,32 @@ public class MainActivity extends AppCompatActivity{
         // as you specify a parent activity in AndroidManifest.xml.
         int id = item.getItemId();
         TextView textView= (TextView) findViewById(R.id.text);
+        SharedPreferences settings = getSharedPreferences("com.example.m.navigationdrawler22_6", Context.MODE_PRIVATE);
+
+        settings.edit().putInt("TAB", TabFragment.viewPager.getCurrentItem()).apply();
 
         switch (id) {
             case R.id.menu_1:
                 if (item.isChecked())
                     item.setChecked(false);
                 else item.setChecked(true);
-                textView.setTextSize(20);
-
-
-
-
+                settings.edit().putString("FONT_SIZE", "Small").apply();
+                setTheme(R.style.FontSizeSmall);
+                recreate();
                 return super.onOptionsItemSelected(item);
             case R.id.menu_2:
                 if (item.isChecked()) item.setChecked(false);
                 else item.setChecked(true);
-                textView.setTextSize(25);
+                settings.edit().putString("FONT_SIZE", "Medium").apply();
+                setTheme(R.style.FontSizeMedium);
+                recreate();
                 return super.onOptionsItemSelected(item);
-
-
             case R.id.menu_3:
                 if (item.isChecked()) item.setChecked(false);
                 else item.setChecked(true);
-                textView.setTextSize(30);
+                settings.edit().putString("FONT_SIZE", "Large").apply();
+                setTheme(R.style.FontSizeLarge);
+                recreate();
                 return super.onOptionsItemSelected(item);
 
         }
